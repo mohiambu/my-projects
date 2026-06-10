@@ -89,6 +89,6 @@ This project demonstrates how statistical modeling can separate location effects
 
 ## Files
 
-- `Airbnb_Pricing_Patterns_Denver.Rmd` – Main analysis
-- `Airbnb_Pricing_Patterns_Denver.pdf` – Final report
-- Dataset from InsideAirbnb
+- `Final_EDA_Project.Rmd` - Main analysis
+- `Final_EDA_Project.pdf` - Final report
+- `listings.csv` - Dataset from InsideAirbnb
