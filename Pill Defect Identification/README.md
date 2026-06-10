@@ -31,7 +31,7 @@ The final model combined LOF and PCA using a weighted hybrid score and achieved 
 
 ### Report
 
-* `Pill Defect Identification Report.pdf`
+* `Pill_Defect_Identification_Report.pdf`
   Final project report.
 
 ### Code
