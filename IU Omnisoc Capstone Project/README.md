@@ -74,17 +74,6 @@ Final Anomaly Score
 - Pandas
 - Matplotlib
 
-## Visual Results
-
-### Baseline Model
-
-![Baseline Model](baseline_model.png)
-
-### Final Ensemble Model
-
-![Final Model](final_model.png)
-
-The final model shows much better separation between normal and attack traffic, making malicious activity easier to identify.
 
 ## Future Improvements
 
