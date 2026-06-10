@@ -31,12 +31,12 @@ The final model combined LOF and PCA using a weighted hybrid score and achieved 
 
 ### Report
 
-* `CV_Final_PDF.pdf`
+* `Pill Defect Identification Report.pdf`
   Final project report.
 
 ### Code
 
-* `CV_Final_Code.ipynb`
+* `Code.ipynb`
   Google Colab notebook containing preprocessing, model training, evaluation, and plots.
 
 ### Dataset
