@@ -7,8 +7,6 @@ Unsupervised Anomaly Detection for Pill Defect Identification
 ## Group Members
 
 * Mohammed Ambusaidi
-* Saeed AlMheiri
-* Dominik Gusich
 
 ## Project Summary
 
